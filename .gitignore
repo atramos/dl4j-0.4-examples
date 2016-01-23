@@ -32,8 +32,6 @@ model-saver-*
 mnist-pretrain-dbn.bin-*
 deeplearning4j-scaleout/deeplearning4j-aws/src/main/java/org/deeplearning4j/aws/ec2/provision/Ec2CommandRunner.java.settings/
 *.log
-.project
-.classpath
 metastore_db
 *.ipynb*
 *.html
@@ -42,3 +40,4 @@ Word2vec-index/
 *.conf
 *.json
 
+/bin/
